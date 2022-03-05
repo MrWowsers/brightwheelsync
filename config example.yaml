@@ -1,0 +1,6 @@
+user: my.email@gmail.com
+password: mypassword
+feeds:
+  Reese: https://schools.mybrightwheel.com/students/uniqe_id/feed
+save_location: /mnt/path/Brightwheel
+last_pull: 2022-03-05 #Last day of download
